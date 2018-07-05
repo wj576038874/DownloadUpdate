@@ -5,7 +5,7 @@ android版本更新：通知栏更新，对话框更新 兼容8.0
 
 效果图： [点击下载APK进行体验](https://raw.githubusercontent.com/wj576038874/PhotoSelectorDemo/master/apk/PhotoSelector.apk)
 
-![效果图](https://github.com/wj576038874/PhotoSelectorDemo/blob/master/images/selector.jpg)
-![效果图](https://github.com/wj576038874/PhotoSelectorDemo/blob/master/images/folder.jpg) 
+![效果图](https://raw.githubusercontent.com/wj576038874/UpdateVersionDemo/master/gif/abc.gif)
+![效果图](https://github.com/wj576038874/UpdateVersionDemo/blob/master/gif/def.gif) 
 
 
