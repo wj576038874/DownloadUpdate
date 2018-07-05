@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+
+    <cache-path name="cache-path" path="." /><!--name自定义   .为根路径-->
+
+    <external-cache-path name="external-cache-path" path="." /><!--name自定义  .为SDCard/Android/data/应用包名/cache/-->
+
+    <!--name自定义  update_file为SDCard/Android/data/应用包名/cache/update/和gettExternalCacheDirectory对应创建的文件夹保持一致-->
+    <external-cache-path name="external-cache--custom-path" path="update" />
+</paths>
